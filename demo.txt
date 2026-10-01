@@ -3,5 +3,5 @@ commit-2
 commit-3
 commit-4-bugfixed
 commit-5
-commit-6-modified
+commit-6-modified-and-fixed
 etias
